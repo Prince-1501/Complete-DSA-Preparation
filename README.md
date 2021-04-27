@@ -1,8 +1,8 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/fishercoder1534/Leetcode.svg?branch=master)](https://travis-ci.org/fishercoder1534/Leetcode) ![Language](https://img.shields.io/badge/language-Java%20%2F%20MySQL%20%2F%20Bash-blue.svg)
+# [LeetCode](https://leetcode.com/problemset/algorithms/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/fishercoder1534/Leetcode.svg?branch=master)](https://travis-ci.org/fishercoder1534/Leetcode) ![Language](https://img.shields.io/badge/language-Java%20%2F%20MySQL%20%2F%20Bash-blue.svg)
 
 _If you like this project, please leave me a star._ &#9733;
 
-<img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/leetcode.png" alt="leetcode" width="70"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/geeksforgeeks.png" alt="geeksforgeeks" width="70"/>
+<img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/leetcode.png" alt="leetcode" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/geeksforgeeks.png" alt="geeksforgeeks" width="60"/>
 
 
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q)
