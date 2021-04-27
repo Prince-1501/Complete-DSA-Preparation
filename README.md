@@ -12,6 +12,7 @@ _If you like this project, please leave me a star._ &#9733;
 - [Recursion](#Recursion)
 - [Linked List](#Linked-List)
 - [Matrix](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#matrix)
+- [Hashing](#Hashing)
 
 
 ## Linked List
@@ -32,4 +33,9 @@ _If you like this project, please leave me a star._ &#9733;
 |5|[Multiply the matrices  ](https://practice.geeksforgeeks.org/problems/multiply-the-matrices-1587115620/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Multiply%20two%20matrices.cpp)|[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Multiply%20two%20matrices.pdf)|[Solution](https://youtu.be/DvG9SF2VXL4)|Easy| Matrix, Array|
 
 
+## Hashing
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|[What is Hashing Data structure](https://www.geeksforgeeks.org/hashing-data-structure/)|| [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/Hashing%20in%20Data%20Structure.pdf)|[Video](https://youtu.be/AV36hu5TFRQ)|Easy|Hashing|
 
