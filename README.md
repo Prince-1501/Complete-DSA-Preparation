@@ -18,7 +18,7 @@ dsa-course@upi
 
 -->
 
-> ["For coding interview preparation, LeetCode & GeeksforGeeks is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](#)
+> ["For coding interview preparation, LeetCode & GeeksforGeeks is one of the best online resource providing a rich library of more than 300 real coding interview questions for you "](#)
 
 ## Table of Contents
 
