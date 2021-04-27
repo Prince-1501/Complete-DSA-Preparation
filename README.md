@@ -25,4 +25,11 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|[What is Multidimensional Arrays c++](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/multi%20dimension%20array.pdf)|[Video](https://youtu.be/TfE2c7SXaUo)|Easy| Matrix |
+|1|[What is Multidimensional Arrays c++](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/multi%20dimension%20array.pdf)|[Video](https://youtu.be/TfE2c7SXaUo)|Easy| Matrix, Array |
+|2|[Sum of upper and lower triangles ](https://practice.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Sum%20of%20upper%20and%20lower%20triangles.pdf)|[Solution](https://youtu.be/YuqtMC6Nvg8)|Easy| Matrix , Array|
+|3|[Transpose of Matrix ](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Transpose%20of%20Matrix.pdf)|[Solution](https://youtu.be/n3-XWx-Inns)|Easy| Matrix , Array|
+|4|[Rotate by 90 degree ](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Rotate%20by%2090%20degree.pdf)|[Solution](https://youtu.be/yIUryrv2I7I)|Easy| Matrix , Array|
+|5|[Multiply the matrices  ](https://practice.geeksforgeeks.org/problems/multiply-the-matrices-1587115620/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Multiply%20two%20matrices.cpp)|[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Multiply%20two%20matrices.pdf)|[Solution](https://youtu.be/DvG9SF2VXL4)|Easy| Matrix , Array|
+
+
+
