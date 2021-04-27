@@ -7,13 +7,22 @@ _If you like this project, please leave me a star._ &#9733;
 ## Table of Contents
 
 - [Time Complexity](#Time-complexity)
-- [Preface](#preface)
-- [Notes](#notes)
-- [Question List](#question-list)
+- [Mathematics](#Mathematics)
+- [Bits Manipulation](#Bits-Manipulation)
+- [Recursion](#Recursion)
+- [Linked List](#Linked-List)
+- [Matrix](#Matrix)
 
 
-## Time Complexity
+## Linked List
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|||[Solution](https://youtu.be/8Sm_8ITMt08)|Easy|Linked List|
+
+
+## Matrix
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|[What is Multidimensional Arrays c++](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/)||[Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/multi%20dimension%20array.pdf)|[Video](https://youtu.be/TfE2c7SXaUo)|Easy| Matrix |
