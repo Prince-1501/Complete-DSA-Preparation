@@ -4,7 +4,15 @@ _If you like this project, please leave me a star._ &#9733;
 
 > ["For coding interview preparation, LeetCode is one of the best online resource providing a rich library of more than 300 real coding interview questions for you to practice from using one of the 7 supported languages - C, C++, Java, Python, C#, JavaScript, Ruby."](https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q)
 
-## STEP BY STEP GUIDE
+## Table of Contents
+
+- [Time Complexity](#Time Complexity)
+- [Preface](#preface)
+- [Notes](#notes)
+- [Question List](#question-list)
+
+
+## Time Complexity
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
