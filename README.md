@@ -6,6 +6,6 @@ _If you like this project, please leave me a star._ &#9733;
 
 ## STEP BY STEP GUIDE
 
-|  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                   
-|-----|----------------|---------------|--------|-------------|-------------
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
 |1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)||[Solution](https://youtu.be/8Sm_8ITMt08)|Easy|Linked List|
