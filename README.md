@@ -6,7 +6,7 @@ _If you like this project, please leave me a star._ &#9733;
 
 ## Table of Contents
 
-- [Time Complexity](#Time Complexity)
+- [Time Complexity](#Time-complexity)
 - [Preface](#preface)
 - [Notes](#notes)
 - [Question List](#question-list)
