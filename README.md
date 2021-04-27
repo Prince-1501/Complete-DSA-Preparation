@@ -11,7 +11,7 @@ _If you like this project, please leave me a star._ &#9733;
 - [Bits Manipulation](#Bits-Manipulation)
 - [Recursion](#Recursion)
 - [Linked List](#Linked-List)
-- [Matrix](#https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#matrix)
+- [Matrix](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#matrix)
 
 
 ## Linked List
