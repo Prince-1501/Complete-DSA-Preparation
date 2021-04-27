@@ -22,6 +22,10 @@ _If you like this project, please leave me a star._ &#9733;
 - [Matrix](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#matrix)
 - [Hashing](#Hashing)
 
+:green_square:
+:orange_square:
+:red_square:
+
 
 ## Linked List
 
@@ -29,9 +33,6 @@ _If you like this project, please leave me a star._ &#9733;
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|||[Solution](https://youtu.be/8Sm_8ITMt08)|Easy|Linked List|
 
-:green_square:
-:orange_square:
-:red_square:
 
 ## Matrix
 
