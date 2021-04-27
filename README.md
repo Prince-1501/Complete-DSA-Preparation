@@ -8,4 +8,4 @@ _If you like this project, please leave me a star._ &#9733;
 
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag                   
 |-----|----------------|---------------|--------|-------------|-------------
-|1|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Solution](../master/src/main/java/com/fishercoder/solutions/_1837.java) ||Easy|Math, Bit Manipulation|
+|1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)||[Solution](https://youtu.be/8Sm_8ITMt08)|Easy|Linked List|
