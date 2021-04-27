@@ -14,12 +14,21 @@ _If you like this project, please leave me a star._ &#9733;
 - [Mathematics](#Mathematics)
 - [Bits Manipulation](#Bits-Manipulation)
 - [Recursion](#Recursion)
-- [String](#String)
-- [Tree](#Tree)
-- [Binary Search Tree](#Binary-Search-Tree)
-- [Linked List](#Linked-List)
 - [Matrix](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#matrix)
 - [Hashing](#Hashing)
+- [String](#String)
+- [Linked List](#Linked-List)
+- [Stack](#Stack)
+- [Queue](#Queue)
+- [Deque](#Deque)
+- [Tree](#Tree)
+- [Binary Search Tree](#Binary-Search-Tree)
+- [Heap](#Heap)
+- [Graph](#Graph)
+- [Greedy](#Greedy)
+- [Backtracking](#Backtracking)
+- [Dynamic Programming](#Dynamic-Programming)
+
 
 :green_square:
 :orange_square:
