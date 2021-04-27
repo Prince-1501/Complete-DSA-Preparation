@@ -52,6 +52,11 @@ _If you like this project, please leave me a star._ &#9733;
 |1|[What is Hashing Data structure](https://www.geeksforgeeks.org/hashing-data-structure/)|| [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/Hashing%20in%20Data%20Structure.pdf)|[Video](https://youtu.be/AV36hu5TFRQ)|:orange_square: Easy|Hashing|
 
 
+## Tree
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|
 
 
 <br>
