@@ -57,6 +57,7 @@ _If you like this project, please leave me a star._ &#9733;
 ## Connect with us
 
 <a href="https://telegram.me/helloworldbyprince"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/telegram.png" alt="telegram" width="60"/></a>
+<a href="https://www.linkedin.com/in/iamprince/"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/linkedin.png" alt="Linkedin" width="60"/></a>
 
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
