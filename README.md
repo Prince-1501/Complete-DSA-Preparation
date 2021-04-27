@@ -54,6 +54,12 @@ _If you like this project, please leave me a star._ &#9733;
 <br>
 <br>
 
+## Connect with us
+
+<img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/telegram.png" alt="telegram" width="60"/>
+[Telegram](https://telegram.me/helloworldbyprince)
+
+
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
  Let me know your views on the repository or any changes or improvements at ***[LinkedIn](https://www.linkedin.com/in/iamprince/)***
