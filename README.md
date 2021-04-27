@@ -28,6 +28,8 @@ _If you like this project, please leave me a star._ &#9733;
 |1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|||[Solution](https://youtu.be/8Sm_8ITMt08)|Easy|Linked List|
 
 
+
+
 ## Matrix
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
@@ -44,4 +46,17 @@ _If you like this project, please leave me a star._ &#9733;
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1|[What is Hashing Data structure](https://www.geeksforgeeks.org/hashing-data-structure/)|| [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/Hashing%20in%20Data%20Structure.pdf)|[Video](https://youtu.be/AV36hu5TFRQ)|Easy|Hashing|
+
+
+
+
+<br>
+<br>
+<br>
+
+***Do star, fork and share the repo to show your support, it would help others too!***   <br>
+ <br>
+ Let me know your views on the repository or any changes or improvements at ***[LinkedIn](https://www.linkedin.com/in/iamprince/)***
+ 
+ :heart: ***Thank you all for Forking this repository***  :heart:
 
