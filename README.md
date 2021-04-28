@@ -110,7 +110,8 @@ dsa-course@upi
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| Naive Pattern Search | | | [Important](https://youtu.be/_ZWnkyae2gA) | :green_square: Easy | Pattern |
-
+|2| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Naive%20Pattern%20Search.cpp) | [pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Naive%20Pattern%20Search%20:%20Implement%20strStr()%20.pdf) | :green_square: Easy | Pattern |
+|3| [Binary String ](https://practice.geeksforgeeks.org/problems/binary-string-1587115620/1) | | | | :green_square: Easy | string |
 
 ## Tree
 
