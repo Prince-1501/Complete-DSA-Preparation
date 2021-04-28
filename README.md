@@ -23,7 +23,7 @@ dsa-course@upi
 ## Table of Contents
 
 - [Time Complexity](#Time-complexity)
-- [Mathematics](#Mathematics)
+- [Mathematics](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#mathematics)
 - [Bits Manipulation](#Bits-Manipulation)
 - [Recursion](#Recursion)
 - [Matrix](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#matrix)
