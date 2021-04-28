@@ -86,7 +86,19 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|[What is Hashing Data structure](https://www.geeksforgeeks.org/hashing-data-structure/)|| [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/Hashing%20in%20Data%20Structure.pdf)|[Video](https://youtu.be/AV36hu5TFRQ)|:orange_square: Easy|Hashing|
+|1|What is Hashing Data structure|| [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/Hashing%20in%20Data%20Structure.pdf)|[Theory](https://youtu.be/AV36hu5TFRQ)|:green_square: Easy|Hashing|
+|2|Code of Hashing in c++| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/code%20of%20Hashing%20in%20C++.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/code%20of%20Hashing%20in%20C%2B%2B.pdf)|[Solution](https://youtu.be/G87TuBjByts)|:green_square: Easy|Hashing|
+|3|Direct Access Table| | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/what%20is%20hashing%20data%20structure%20and%20direct%20access%20table.pdf)|[Theory](https://youtu.be/6qjOspk0Yg0)|:green_square: Easy|Hash|
+|4|What is Hash Function and collision| | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/collision%20in%20hashing%20data%20structure.pdf)|[Theory](https://youtu.be/oLR9Zf8JSUI)|:green_square: Easy|Hash|
+|5|What is chaining in collision handling| | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/what%20is%20hashing%20data%20structure%20and%20direct%20access%20table.pdf)|[Theory](https://youtu.be/ER03smJIVFE)|:green_square: Easy|Hashing|
+|5|What is unordered_set| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/unordered_set.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/unordered_set.pdf)|[Theory](https://youtu.be/EMvLygYr6Gg)|:green_square: Easy|Hash|
+|6|What is unordered_map| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/unordered_map.cpp) | [GFG](https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/)|[Theory](https://youtu.be/Uv0kd7mM0ts)|:green_square: Easy|Hash|
+|7|[Non Repeating Element](https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Non-Repeating%20Element.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Non-Repeating%20Element.pdf)|[Solution](https://youtu.be/KpjXziZMHwI)|:green_square: Easy|Hashing|
+|8|[First Repeating Element](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/First%20Repeating%20Element.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/First%20Repeating%20Element.pdf)|[Solution](https://youtu.be/n5-uvGlhcCI)|:green_square: Easy|Hashing|
+|9|[Union of two arrays ](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1)| | | Practice |:green_square: Easy|Hashing|
+|10|[Intersection of Two Arrays](https://practice.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Intersection%20of%20two%20arrays.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Intersection%20of%20two%20arrays.pdf)|[Solution](https://youtu.be/zgLtdM8-6CE)|:green_square: Easy|unordered_set|
+
+
 
 ## String
 
