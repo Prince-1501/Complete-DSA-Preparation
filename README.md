@@ -119,7 +119,16 @@ dsa-course@upi
 |8| [Check if a string is Isogram or not ](https://practice.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/1) | | | | :green_square: Easy | string |
 |9| [Keypad typing ](https://practice.geeksforgeeks.org/problems/keypad-typing0119/1) | | | | :green_square: Easy | string |
 |10| [Repeated Character ](https://practice.geeksforgeeks.org/problems/repeated-character2058/1) | | | | :green_square: Easy | string |
-|11| [ Non Repeating Character ](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Non%20Repeating%20Character.cpp) | | [solution](https://youtu.be/MN37co8M37g) | :green_square: Easy | string |
+|11| [ Non Repeating Character ](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Non%20Repeating%20Character.cpp) | | [solution](https://youtu.be/MN37co8M37g) | :orange_square: Medium | string |
+|12| [  Maximum Occuring Character  ](https://practice.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | | |  | :green_square: Easy | string |
+|13| [  Remove common characters and concatenate  ](https://practice.geeksforgeeks.org/problems/remove-common-characters-and-concatenate-1587115621/1) | | |  | :green_square: Easy | string |
+|14| [  Reverse words in a given string  ](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | | |  | :green_square: Easy | string |
+|15| [ Sum of numbers in string  ](https://practice.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/sum%20of%20numbers%20in%20string.cpp)| [pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/sum%20of%20numbers%20in%20string.pdf) | [solution](https://youtu.be/XdbGdoTf3Fs) | :orange_square: Medium | string |
+|16| [  Pangram Checking   ](https://practice.geeksforgeeks.org/problems/pangram-checking-1587115620/1) | | |  | :green_square: Easy | string |
+|17| [ Minimum indexed character ](https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1) | | |  | :green_square: Easy | string |
+|18| [ Smallest window in a string containing all the characters of another string ](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) | | |  | :orange_square: Medium | string |
+|19| [ Nth number made of prime digits ](https://practice.geeksforgeeks.org/problems/nth-number-made-of-prime-digits4319/1) | | |  | :green_square: Easy | Prime, string |
+
 
 
 
