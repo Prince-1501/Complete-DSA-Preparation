@@ -63,7 +63,7 @@ dsa-course@upi
 |9| Addition Under Modulo||[Theory](https://www.geeksforgeeks.org/sum-of-two-numbers-modulo-m/)||:green_square: Easy| Modulo |
 |10| Multiplication Under Modulo||[Theory](https://www.geeksforgeeks.org/multiply-large-integers-under-large-modulo/)||:green_square: Easy| Modulo |
 |11| [Modular Multiplicative Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1)||||:green_square: Easy| Modulo |
-
+|12| [Trailing zeroes in factorial](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)||||:orange_square: Medium| Logic |
 
 
 ## Linked List
