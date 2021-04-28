@@ -109,7 +109,7 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| Naive Pattern Search | | | [Important](https://youtu.be/_ZWnkyae2gA) | :green_square: Easy | Pattern |
 
 
 ## Tree
