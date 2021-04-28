@@ -47,6 +47,17 @@ dsa-course@upi
 :red_square:
 
 
+## Mathematics
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|Absolute value||[Theory](https://www.geeksforgeeks.org/program-to-find-absolute-value-of-a-given-number/)||:green_square: Easy| abs() |
+|2| Celsius To Fahrenheit ||[Theory](https://www.geeksforgeeks.org/program-celsius-fahrenheit-conversion/)||:green_square: Easy| Math |
+|3| Roots of Quadratic equation||[Theory](https://www.geeksforgeeks.org/program-to-find-the-roots-of-quadratic-equation/)||:green_square: Easy| Math |
+|4| [Factorial Of Number](https://practice.geeksforgeeks.org/problems/factorial5739/1)||||:green_square: Easy| Math |
+
+
+
 ## Linked List
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
