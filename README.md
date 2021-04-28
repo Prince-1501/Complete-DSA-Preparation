@@ -64,6 +64,7 @@ dsa-course@upi
 |10| Multiplication Under Modulo||[Theory](https://www.geeksforgeeks.org/multiply-large-integers-under-large-modulo/)||:green_square: Easy| Modulo |
 |11| [Modular Multiplicative Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1)||||:green_square: Easy| Modulo |
 |12| [Trailing zeroes in factorial](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)||||:orange_square: Medium| Logic |
+|13| [Prime Factors ](https://practice.geeksforgeeks.org/problems/prime-factors5052/1)||||:orange_square: Medium| Prime |
 
 
 ## Linked List
