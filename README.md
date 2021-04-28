@@ -84,7 +84,7 @@ dsa-course@upi
 ## Hashing
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
-|-----|----------------|----------|---------------|---------| :-------------|--------
+|-----|----------------|----------|---------------|---------| :-------------:|--------
 |1|What is Hashing Data structure|| [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/Hashing%20in%20Data%20Structure.pdf)|[Theory](https://youtu.be/AV36hu5TFRQ)|:green_square: Easy|Hashing|
 |2|Code of Hashing in c++| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/code%20of%20Hashing%20in%20C++.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Tree/code%20of%20Hashing%20in%20C%2B%2B.pdf)|[Solution](https://youtu.be/G87TuBjByts)|:green_square: Easy|Hashing|
 |3|Direct Access Table| | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/what%20is%20hashing%20data%20structure%20and%20direct%20access%20table.pdf)|[Theory](https://youtu.be/6qjOspk0Yg0)|:green_square: Easy|Hash|
