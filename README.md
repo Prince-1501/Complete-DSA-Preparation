@@ -19,7 +19,7 @@ dsa-course@upi
 
 -->
 
-> ["For coding interview preparation, LeetCode & GeeksforGeeks is one of the best online resource providing a rich library of more than 500 real coding interview questions for you "](#)
+> ["For coding interview preparation, LeetCode & GeeksforGeeks is one of the best online resource providing a rich library of more than 500+ real coding interview questions for you "](#)
 
 ## Table of Contents
 
