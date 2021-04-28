@@ -110,8 +110,20 @@ dsa-course@upi
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| Naive Pattern Search | | | [Important](https://youtu.be/_ZWnkyae2gA) | :green_square: Easy | Pattern |
-|2| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Naive%20Pattern%20Search.cpp) | [pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Naive%20Pattern%20Search%20:%20Implement%20strStr()%20.pdf) | :green_square: Easy | Pattern |
+|2| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Naive%20Pattern%20Search.cpp) | [pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Naive%20Pattern%20Search%20:%20Implement%20strStr()%20.pdf) | | :green_square: Easy | Pattern |
 |3| [Binary String ](https://practice.geeksforgeeks.org/problems/binary-string-1587115620/1) | | | | :green_square: Easy | string |
+|4| [Anagram ](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1) | | | | :green_square: Easy | string |
+|5| [Check if string is rotated by two places ](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1) | | | | :green_square: Easy | string |
+|6| [Check if strings are rotations of each other or not ](https://practice.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1) | | | | :green_square: Easy | string |
+|7| [Isomorphic Strings ](https://practice.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1) | | | | :green_square: Easy | string |
+|8| [Check if a string is Isogram or not ](https://practice.geeksforgeeks.org/problems/check-if-a-string-is-isogram-or-not-1587115620/1) | | | | :green_square: Easy | string |
+|9| [Keypad typing ](https://practice.geeksforgeeks.org/problems/keypad-typing0119/1) | | | | :green_square: Easy | string |
+|10| [Repeated Character ](https://practice.geeksforgeeks.org/problems/repeated-character2058/1) | | | | :green_square: Easy | string |
+|11| [ Non Repeating Character ](https://practice.geeksforgeeks.org/problems/non-repeating-character-1587115620/1) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Non%20Repeating%20Character.cpp) | | [solution](https://youtu.be/MN37co8M37g) | :green_square: Easy | string |
+
+
+
+
 
 ## Tree
 
