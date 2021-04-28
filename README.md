@@ -129,7 +129,7 @@ dsa-course@upi
 
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
- Let me know your views on the repository or any changes or improvements at ***[LinkedIn](https://www.linkedin.com/in/iamprince/)***
+ Let me know your views on the repository or any changes or improvements at ***[LinkedIn](https://www.linkedin.com/in/iamprince/)***, ***[Telegram](https://telegram.me/helloworldbyprince)***
  
  :heart: ***Thank you all for Forking this repository***  :heart:
 
