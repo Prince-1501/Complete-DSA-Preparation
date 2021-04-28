@@ -59,7 +59,7 @@ dsa-course@upi
 |5| [Count digits in a factorial ](https://practice.geeksforgeeks.org/problems/count-digits-in-a-factorial3957/1)||||:green_square: Easy| Factorial, Math |
 |6| [Series GP](https://practice.geeksforgeeks.org/problems/series-gp4646/1)||||:green_square: Easy| Basic Math |
 |7| [Prime Number](https://practice.geeksforgeeks.org/problems/prime-number2314/1)||||:green_square: Easy| Basic Math |
-|8| Prime Number||[Theory](https://www.geeksforgeeks.org/numbers-exactly-3-divisors/)||:green_square: Easy| Basic Math |
+|8| [Exactly 3 Divisors ]||[Theory](https://www.geeksforgeeks.org/numbers-exactly-3-divisors/)||:green_square: Easy| Basic Math |
 |9| Addition Under Modulo||[Theory](https://www.geeksforgeeks.org/sum-of-two-numbers-modulo-m/)||:green_square: Easy| Modulo |
 |10| Multiplication Under Modulo||[Theory](https://www.geeksforgeeks.org/multiply-large-integers-under-large-modulo/)||:green_square: Easy| Modulo |
 |11| [Modular Multiplicative Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1)||||:green_square: Easy| Modulo |
