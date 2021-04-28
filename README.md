@@ -6,10 +6,10 @@ _If you like this project, please leave me a star._ &#9733;
 
 
 
-
 _A little Contribution Makes You Happy_:moneybag::heart:
 <br>
-<img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/phone-pe.png" alt="Phone Pe" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/Google-Pay.png" alt="Google Pay" width="60"/>
+<img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/phone-pe.png" alt="Phone Pe" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/Google-Pay.png" alt="Google Pay" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/bhim.png" alt="bhim" width="50"/>
+
 
 ``` JavaScript
 dsa-course@upi
