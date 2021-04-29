@@ -24,10 +24,10 @@ dsa-course@upi
 ## Table of Contents
 
 - [Time Complexity](#Time-complexity)
-- [Mathematics](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#mathematics)
+- [Mathematics](#mathematics)
 - [Bits Manipulation](#Bits-Manipulation)
 - [Recursion](#Recursion)
-- [Matrix](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/README.md#matrix)
+- [Matrix](#matrix)
 - [Hashing](#Hashing)
 - [String](#String)
 - [Linked List](#Linked-List)
@@ -72,7 +72,7 @@ dsa-course@upi
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)| | | |:green_square: Easy| Bits, Modulo |
 |2| [Rightmost different bit ](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)| | | |:green_square: Easy| XOR, Modulo |
-
+|3| [Check whether K-th bit is set or not ](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)| | | |:green_square: Easy| XOR, Modulo |
 
 ## Linked List
 
