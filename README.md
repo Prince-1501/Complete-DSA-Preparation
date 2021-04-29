@@ -66,6 +66,13 @@ dsa-course@upi
 |12| [Trailing zeroes in factorial](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)||||:orange_square: Medium| Logic |
 |13| [Prime Factors ](https://practice.geeksforgeeks.org/problems/prime-factors5052/1)||||:orange_square: Medium| Prime |
 
+## Bits Manipulation
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)| | | |:green_square: Easy| Bits, Modulo |
+
+
 
 ## Linked List
 
