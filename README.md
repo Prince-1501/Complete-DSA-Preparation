@@ -80,6 +80,8 @@ dsa-course@upi
 |8| [ Gray Code    ](https://practice.geeksforgeeks.org/problems/gray-code4907/1)| | | |:green_square: Easy| Xor, Right Shift |
 |9| [Gray to Binary equivalent   ](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)| | | |:green_square: Easy| Xor, Right Shift |
 |10| [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)| | | |:green_square: Easy| AND |
+|11| [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)| | | |:green_square: Easy| OR |
+|12| [Maximum AND Value ](https://practice.geeksforgeeks.org/problems/maximum-and-value-1587115620/1)| | | |:orange_square: Medium| AND |
 
 
 
