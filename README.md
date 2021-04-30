@@ -77,7 +77,8 @@ dsa-course@upi
 |5| [Bit Difference ](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)| | | |:green_square: Easy| Bits |
 |6| [Number is sparse or not  ](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1)| | | |:green_square: Easy| Bits |
 |7| [Longest Consecutive 1's  ](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)| | | |:green_square: Easy| Bits |
-|8| [Gray to Binary equivalent   ](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)| | | |:green_square: Easy| Bits |
+|8| [ Gray Code    ](https://practice.geeksforgeeks.org/problems/gray-code4907/1)| | | |:green_square: Easy| Xor, Right Shift |
+|9| [Gray to Binary equivalent   ](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)| | | |:green_square: Easy| Xor, Right Shift |
 
 
 
