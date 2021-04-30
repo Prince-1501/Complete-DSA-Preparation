@@ -166,6 +166,23 @@ dsa-course@upi
 |1|
 
 
+
+
+
+## Backtracking
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|
+
+
+## Dynamic Programming
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|
+
+
 <br>
 <br>
 <br>
