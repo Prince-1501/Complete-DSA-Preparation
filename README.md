@@ -79,6 +79,8 @@ dsa-course@upi
 |7| [Longest Consecutive 1's  ](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)| | | |:green_square: Easy| Bits |
 |8| [ Gray Code    ](https://practice.geeksforgeeks.org/problems/gray-code4907/1)| | | |:green_square: Easy| Xor, Right Shift |
 |9| [Gray to Binary equivalent   ](https://practice.geeksforgeeks.org/problems/gray-to-binary-equivalent-1587115620/1)| | | |:green_square: Easy| Xor, Right Shift |
+|10| [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)| | | |:green_square: Easy| AND |
+
 
 
 
