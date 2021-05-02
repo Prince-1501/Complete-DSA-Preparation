@@ -85,6 +85,13 @@ dsa-course@upi
 
 
 
+## Recursion
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)| | | |:green_square: Easy| Recursion|
+|2| [Rightmost different bit ](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)| | | |:green_square: Easy| XOR, Modulo |
+
 
 ## Linked List
 
