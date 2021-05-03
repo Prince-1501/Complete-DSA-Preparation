@@ -92,6 +92,7 @@ dsa-course@upi
 |1| [Print 1 to n without using loops](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1)| | | |:green_square: Easy| Recursion|
 |2| [Sum Of Digits ](https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1)| | | |:green_square: Easy|Recursion|
 |3| [Count Total Digits in a Number  ](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1)| | | |:green_square: Easy|Recursion|
+|4| [Digital Root  ](https://practice.geeksforgeeks.org/problems/digital-root/1/)| | | |:orange_square: Medium|Recursion|
 
 
 
