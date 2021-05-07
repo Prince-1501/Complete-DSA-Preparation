@@ -93,8 +93,10 @@ dsa-course@upi
 |2| [Sum Of Digits ](https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1)| | | |:green_square: Easy|Recursion|
 |3| [Count Total Digits in a Number  ](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1)| | | |:green_square: Easy|Recursion|
 |4| [Digital Root  ](https://practice.geeksforgeeks.org/problems/digital-root/1/)| | | |:orange_square: Medium|Recursion|
-|5| [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)| | | |:orange_square: Medium|Recursion|
-|6| [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)| | | |:orange_square: Medium|Recursion|
+|5| [Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1/)| | | |:green_square: Easy|Recursion|
+
+|6| [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)| | | |:orange_square: Medium|Recursion|
+|7| [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)| | | |:orange_square: Medium|Recursion|
 
 ## Linked List
 
