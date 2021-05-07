@@ -94,9 +94,6 @@ dsa-course@upi
 |3| [Count Total Digits in a Number  ](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1)| | | |:green_square: Easy|Recursion|
 |4| [Digital Root  ](https://practice.geeksforgeeks.org/problems/digital-root/1/)| | | |:orange_square: Medium|Recursion|
 |5| [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)| | | |:orange_square: Medium|Recursion|
-
-|5| | | | |:orange_square: Medium|Recursion|
-
 |6| [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)| | | |:orange_square: Medium|Recursion|
 
 ## Linked List
