@@ -41,6 +41,7 @@ dsa-course@upi
 - [Greedy](#Greedy)
 - [Backtracking](#Backtracking)
 - [Dynamic Programming](#Dynamic-Programming)
+- [Trie](#Trie)
 
 
 :green_square:
