@@ -214,7 +214,7 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1) | | |  | :orange_square: Medium | Trie |
+|1| [Insert and Search](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1) | | |  | :orange_square: Medium | Trie |
 
 
 <br>
