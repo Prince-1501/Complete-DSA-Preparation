@@ -209,6 +209,13 @@ dsa-course@upi
 |1| [Fibonacci Numbers - Top Down DP](https://practice.geeksforgeeks.org/problems/fibonacci-numbers-top-down-dp/1) | | |  | :green_square: Easy | Recursion |
 
 
+## Trie
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| [Trie | (Insert and Search)](https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1) | | |  | :orange_square: Medium | Trie |
+
+
 <br>
 <br>
 <br>
