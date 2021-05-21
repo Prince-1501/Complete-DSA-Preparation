@@ -180,6 +180,7 @@ dsa-course@upi
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| [Preorder Traversal ](https://practice.geeksforgeeks.org/problems/preorder-traversal/1) | | |  | :green_square: Easy | Recursion, Tree |
+|2| [Inorder Traversal  ](https://practice.geeksforgeeks.org/problems/inorder-traversal/1/) | | |  | :green_square: Easy | Recursion, Tree |
 
 
 
