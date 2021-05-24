@@ -181,6 +181,7 @@ dsa-course@upi
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| [Preorder Traversal ](https://practice.geeksforgeeks.org/problems/preorder-traversal/1) | | |  | :green_square: Easy | Recursion, Tree |
 |2| [Inorder Traversal  ](https://practice.geeksforgeeks.org/problems/inorder-traversal/1/) | | |  | :green_square: Easy | Recursion, Tree |
+|3| [Postorder Traversal ](https://practice.geeksforgeeks.org/problems/postorder-traversal/1/) | | |  | :green_square: Easy | Recursion, Tree |
 
 
 
