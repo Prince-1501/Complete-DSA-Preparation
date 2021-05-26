@@ -182,7 +182,8 @@ dsa-course@upi
 |1| [Preorder Traversal ](https://practice.geeksforgeeks.org/problems/preorder-traversal/1) | | |  | :green_square: Easy | Recursion, Tree |
 |2| [Inorder Traversal  ](https://practice.geeksforgeeks.org/problems/inorder-traversal/1/) | | |  | :green_square: Easy | Recursion, Tree |
 |3| [Postorder Traversal ](https://practice.geeksforgeeks.org/problems/postorder-traversal/1/) | | |  | :green_square: Easy | Recursion, Tree |
-|3| [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | | |  | :orange_square: Medium | Recursion, Tree |
+|4| [Determine if Two Trees are Identical ](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | | |  | :green_square: Easy | Tree Traversal |
+|5| [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | | |  | :orange_square: Medium | Recursion, Tree |
 
 
 
