@@ -184,7 +184,8 @@ dsa-course@upi
 |3| [Postorder Traversal ](https://practice.geeksforgeeks.org/problems/postorder-traversal/1/) | | |  | :green_square: Easy | Recursion, Tree |
 |4| [Determine if Two Trees are Identical ](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | | |  | :green_square: Easy | Tree Traversal |
 |5| [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | | |  | :orange_square: Medium | Recursion, Tree |
-|5| [Children Sum Parent ](https://practice.geeksforgeeks.org/problems/children-sum-parent/1/) | | |  | :green_square: Easy | Recursion, Tree |
+|6| [Children Sum Parent ](https://practice.geeksforgeeks.org/problems/children-sum-parent/1/) | | |  | :green_square: Easy | Recursion, Tree |
+|7| [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1/) | | |  | :green_square: Easy | stack, Tree |
 
 
 
