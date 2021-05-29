@@ -143,7 +143,7 @@ dsa-course@upi
 |15|[Pairs with Positive Negative values](https://practice.geeksforgeeks.org/problems/pairs-with-positive-negative-values3719/1)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Pairs%20with%20Positive%20Negative%20values.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Pairs%20with%20Positive%20Negative%20values%20.pdf)|[Solution](https://youtu.be/hCGUty76A6M)|:green_square: Easy |map, Vector |
 |16|[Print Anagrams Together  ](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1)|  | ||:orange_square: Medium |unordered_map |
 |17|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) or [GFG](https://practice.geeksforgeeks.org/problems/relative-sorting4323/1) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Relative%20Sort%20Array.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Relative%20Sort%20Array.pdf)|[Solution](https://youtu.be/bNuMPAuQN4g)|:orange_square: Medium |Map|
-|18|[Custom Sort String ](https://leetcode.com/problems/custom-sort-string/)|  | ||:orange_square: Medium | map |
+|18|[Custom Sort String ](https://leetcode.com/problems/custom-sort-string/)|  | | Practice |:orange_square: Medium | map |
 
 
 
