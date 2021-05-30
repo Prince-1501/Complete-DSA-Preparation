@@ -187,6 +187,7 @@ dsa-course@upi
 |5| [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | | |  | :orange_square: Medium | Recursion, Tree |
 |6| [Children Sum Parent ](https://practice.geeksforgeeks.org/problems/children-sum-parent/1/) | | |  | :green_square: Easy | Recursion, Tree |
 |7| [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1/) | | |  | :green_square: Easy | stack, Tree |
+|8| [Level order traversal Line by Line](https://practice.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1/) | | |  | :green_square: Easy | stack, Tree |
 
 
 
