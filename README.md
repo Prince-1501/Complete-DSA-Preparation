@@ -188,7 +188,7 @@ dsa-course@upi
 |6| [Children Sum Parent ](https://practice.geeksforgeeks.org/problems/children-sum-parent/1/) | | |  | :green_square: Easy | Recursion, Tree |
 |7| [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1/) | | |  | :green_square: Easy | stack, Tree |
 |8| [Level order traversal Line by Line](https://practice.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1/) | | |  | :green_square: Easy | stack, Tree |
-
+|9| [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/) | | |  | :green_square: Easy | stack, Tree |
 
 
 ## Graph
