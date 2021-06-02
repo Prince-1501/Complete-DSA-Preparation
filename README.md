@@ -189,6 +189,7 @@ dsa-course@upi
 |7| [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1/) | | |  | :green_square: Easy | stack, Tree |
 |8| [Level order traversal Line by Line](https://practice.geeksforgeeks.org/problems/level-order-traversal-line-by-line/1/) | | |  | :green_square: Easy | stack, Tree |
 |9| [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1/) | | |  | :green_square: Easy | stack, Tree |
+|10| [Maximum Width of Tree](https://practice.geeksforgeeks.org/problems/maximum-width-of-tree/1) | | |  | :green_square: Easy | Tree |
 
 
 ## Graph
