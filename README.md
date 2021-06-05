@@ -192,6 +192,7 @@ dsa-course@upi
 |10| [Maximum Width of Tree](https://practice.geeksforgeeks.org/problems/maximum-width-of-tree/1) | | |  | :green_square: Easy | Tree |
 |11| [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1/) / [Leetcode](https://leetcode.com/problems/balanced-binary-tree/) | | |  | :green_square: Easy | Tree |
 |12| [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | | |  | :green_square: Easy | Tree |
+|13| [Right View of Binary Tree ](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | | |  | :green_square: Easy | Tree |
 
 
 
