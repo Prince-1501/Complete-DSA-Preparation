@@ -193,6 +193,7 @@ dsa-course@upi
 |11| [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1/) / [Leetcode](https://leetcode.com/problems/balanced-binary-tree/) | | |  | :green_square: Easy | Tree |
 |12| [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | | |  | :green_square: Easy | Tree |
 |13| [Right View of Binary Tree ](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | | |  | :green_square: Easy | Tree |
+|14| [Lowest Common Ancestor in a Binary Tree ](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) | | |  | :orange_square: Medium | Tree |
 
 
 
