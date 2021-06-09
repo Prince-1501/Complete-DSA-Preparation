@@ -144,6 +144,8 @@ dsa-course@upi
 |16|[Print Anagrams Together  ](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1) / [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Group%20Anagrams.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Group%20Anagrams.pdf) |[Solution](https://youtu.be/zX9k1XvVUXI) |:orange_square: Medium |unordered_map, string |
 |17|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) / [Sort an array according to the other ](https://practice.geeksforgeeks.org/problems/relative-sorting4323/1) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Relative%20Sort%20Array.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Relative%20Sort%20Array.pdf)|[Solution](https://youtu.be/bNuMPAuQN4g)|:orange_square: Medium |Map|
 |18|[Custom Sort String ](https://leetcode.com/problems/custom-sort-string/)|  | | Practice |:orange_square: Medium | map |
+|19|[Sort Array by Increasing Frequency ](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|  | | Practice |:orange_square: Medium | map, Lambda |
+|20|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|  | | Practice |:orange_square: Medium | map |
 
 
 
