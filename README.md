@@ -197,6 +197,7 @@ dsa-course@upi
 |13| [Right View of Binary Tree ](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | | |  | :green_square: Easy | Tree |
 |14| [Lowest Common Ancestor in a Binary Tree ](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) | | |  | :orange_square: Medium | Tree |
 |15| [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1/) | | |  | :green_square: Easy | Tree |
+|16| [Vertical Width of a Binary Tree](https://practice.geeksforgeeks.org/problems/vertical-width-of-a-binary-tree/1/) | | |  | :green_square: Easy | Tree |
 
 
 
