@@ -182,7 +182,7 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| [Binary Tree Inorder Traversal ](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](#) | | [Solution](https://youtu.be/pnVw3yo-3Kg) | :green_square: Easy | Recursion, Tree |
+|1| [Binary Tree Inorder Traversal ](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Tree/Binary%20Tree%20Inorder%20Traversal.cpp) | | [Solution](https://youtu.be/pnVw3yo-3Kg) | :green_square: Easy | Recursion, Tree |
 |2| [Binary Tree Preorder Traversal ](https://leetcode.com/problems/binary-tree-preorder-traversal/) | | |  | :green_square: Easy | Recursion, Tree |
 |3| [Binary Tree Postorder Traversal ](https://leetcode.com/problems/binary-tree-postorder-traversal/) | | |  | :green_square: Easy | Recursion, Tree |
 |4| [Determine if Two Trees are Identical ](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)/ [Same Tree](https://leetcode.com/problems/same-tree/) |[c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Tree/same%20Tree.cpp) | | [Solution](https://youtu.be/3104dX4_zwI) | :green_square: Easy | Tree Traversal |
