@@ -197,7 +197,7 @@ dsa-course@upi
 
 
 
-## Tree
+## Tree 🌲
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
