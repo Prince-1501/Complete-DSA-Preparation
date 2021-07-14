@@ -222,6 +222,13 @@ dsa-course@upi
 
 
 
+## Binary Search Tree
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|
+
+
 ## Graph
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
