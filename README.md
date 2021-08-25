@@ -226,7 +226,7 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| [Search in a Binary Search Tree ](https://leetcode.com/problems/search-in-a-binary-search-tree/) | | | | :green_square: Easy | BST, Tree |
 
 
 ## Graph
