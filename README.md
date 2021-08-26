@@ -226,7 +226,10 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| [Search in a Binary Search Tree ](https://leetcode.com/problems/search-in-a-binary-search-tree/) | | | | :green_square: Easy | BST, Tree |
+|1| [Inorder traversal of a BST  ](https://practice.geeksforgeeks.org/problems/inorder-traversal-of-a-bst/1/) | | | | :green_square: Easy | BST, Tree |
+|2| [Search in a Binary Search Tree ](https://leetcode.com/problems/search-in-a-binary-search-tree/) | | | | :green_square: Easy | BST, Tree |
+
+
 
 
 ## Graph
