@@ -219,6 +219,7 @@ dsa-course@upi
 |16| [Vertical Width of a Binary Tree](https://practice.geeksforgeeks.org/problems/vertical-width-of-a-binary-tree/1/) | | |  | :green_square: Easy | Tree |
 |17| [Mirror Tree ](https://practice.geeksforgeeks.org/problems/mirror-tree/1/) | | |  | :green_square: Easy | Tree |
 |18| [Check if subtree ](https://practice.geeksforgeeks.org/problems/check-if-subtree/1/) | | |  | :orange_square: Medium | Tree |
+|19| [Make Binary Tree From Linked List ](https://practice.geeksforgeeks.org/problems/make-binary-tree/1) | | |  | :orange_square: Medium | Tree |
 
 
 
