@@ -240,6 +240,7 @@ dsa-course@upi
 |1| Graph Introduction | | | [Solution](https://youtu.be/Y_0-AmbC0Ig) | :green_square: Easy | Graph Theory |
 |2| BFS Of Graph | | | Solution | :green_square: Easy | Graph Theory |
 |3| DFS Of Graph | | | Solution | :green_square: Easy | Graph Theory |
+|4| [Find the Number of Islands](https://leetcode.com/problems/number-of-islands/) | | | Solution | :orange_square: Medium | DFS |
 
 
 
