@@ -237,7 +237,10 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| Graph Introduction | | | [Solution](https://youtu.be/Y_0-AmbC0Ig) | :green_square: Easy | Graph Theory |
+|2| BFS Of Graph | | | Solution | :green_square: Easy | Graph Theory |
+|3| DFS Of Graph | | | Solution | :green_square: Easy | Graph Theory |
+
 
 
 ## Greedy
