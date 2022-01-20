@@ -179,8 +179,7 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
-
+|1| What is stack | |[GFG Link](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)|[Solution](https://youtu.be/cppd9DhKHYc)|:green_square: Easy| Stack, Array|
 
 ## Queue
 
