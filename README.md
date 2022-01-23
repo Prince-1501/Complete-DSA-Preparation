@@ -269,7 +269,11 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| What is Queue | |[GFG Link](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)|[Solution](https://youtu.be/f-7SBV09Ots)|:green_square: Easy| Queue, STL|
+|2| [Implement Queue using array ](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | | | |:green_square: Easy| Queue, Array|
+|3| [Implement Queue using Linked List](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | | | |:green_square: Easy| Queue, Linked List|
+|4| [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1/) | | | |:green_square: Easy| Queue, Stack|
+
 
 
 ## Deque
