@@ -362,6 +362,12 @@ dsa-course@upi
 <br>
 <br>
 
+
+## 📘&nbsp; License
+
+The Whole content management system is released under the under terms of the [MIT License](LICENSE).
+
+
 ## Connect with us  ~Prince
 
 <a href="https://telegram.me/helloworldbyprince"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/telegram.png" alt="telegram" width="60"/></a>
