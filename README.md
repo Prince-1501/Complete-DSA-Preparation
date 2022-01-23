@@ -180,6 +180,21 @@ dsa-course@upi
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| What is stack | |[GFG Link](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)|[Solution](https://youtu.be/cppd9DhKHYc)|:green_square: Easy| Stack, Array|
+|2| [Implement stack using array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) | | | |:green_square: Easy| Stack, Array|
+|3| [Implement Stack using Linked List ](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | | | |:green_square: Easy| Stack, Linked List|
+|4| [Implement Stack using Linked List ](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | | | |:green_square: Easy| Stack, Linked List|
+|5| [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | | | |:green_square: Easy| Stack, string|
+|6| [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | | | |:orange_square: Medium| Stack, string|
+|7| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | | | |:green_square: Easy| Stack, string|
+|8| [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) | | | |:green_square: Easy| Stack, Array|
+|9| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | | | |:green_square: Easy| Stack, string|
+|10| [Get min at pop ](https://practice.geeksforgeeks.org/problems/get-min-at-pop/1/) | | | |:green_square: Easy| Stack, Array|
+|11| [Min Stack](https://leetcode.com/problems/min-stack/) | | | |:green_square: Easy| Stack, Array|
+|12| [Delete middle element of a stack ](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) | | | |:green_square: Easy| Stack, STL|
+|13| [Infix to Postfix](https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | | | |:green_square: Easy| Stack |
+|14| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | | | |:orange_square: Medium| Stack, Evaluation of Postfix Expression|
+
+
 
 ## Queue
 
