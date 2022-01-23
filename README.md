@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a name="logo"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/Data_Structures_and_Algorithms.png" alt="Complete DSA Preparation" width="700"></a>
+  <a name="logo"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa%20logo.png" alt="Complete DSA Preparation" width="750"></a>
   <br>
   Complete DSA Preparation Course
 </h1>
