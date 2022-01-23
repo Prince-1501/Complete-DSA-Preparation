@@ -166,11 +166,31 @@ dsa-course@upi
 |6| [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)| | | |:orange_square: Medium|Recursion|
 |7| [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1)| | | |:orange_square: Medium|Recursion|
 
-## Linked List
+
+## Arrays
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|||[Solution](https://youtu.be/8Sm_8ITMt08)|:green_square: Easy|Linked List|
+|1| | | | | |  |
+
+
+
+## Searching
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
+
+
+## Sorting
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1| | | | | |  |
+
+
 
 
 ## Matrix
@@ -243,6 +263,17 @@ dsa-course@upi
 
 
 
+
+## Linked List
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|||[Solution](https://youtu.be/8Sm_8ITMt08)|:green_square: Easy|Linked List|
+
+
+
+
+
 ## Stack
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
@@ -284,13 +315,6 @@ dsa-course@upi
 
 
 
-## Deque
-
-|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
-|-----|----------------|----------|---------------|---------|-------------|--------
-|1|
-
-
 
 ## Tree
 
@@ -325,6 +349,13 @@ dsa-course@upi
 |1| [Inorder traversal of a BST  ](https://practice.geeksforgeeks.org/problems/inorder-traversal-of-a-bst/1/) | | | | :green_square: Easy | BST, Tree |
 |2| [Search in a Binary Search Tree ](https://leetcode.com/problems/search-in-a-binary-search-tree/) | | | | :green_square: Easy | BST, Tree |
 
+
+
+## Heap
+
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|
 
 
 
