@@ -1,3 +1,69 @@
+<h1 align="center">
+  <a name="logo"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/Data_Structures_and_Algorithms.png" alt="Complete DSA Preparation" width="700"></a>
+  <br>
+  Complete DSA Preparation Course
+</h1>
+<h4 align="center">Be sure to :star: my configuration repo so you can keep up to date on any daily progress!</h4>
+<!-- <div align="center">
+  <h4>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/stargazers"><img src="https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/last-commit/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+        <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/commit-activity/y/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+
+  </h4>
+</div> -->
+
+
+<!-- 
+<p><font size="3">
+This Repo is designed for Smart Home inspiration.  The configuration, devices, layout, linked Blog posts and YouTube videos should help inspire you to jump head first into the IOT world.  This is the live working configuration of <strong>my Smart Home</strong>. Use the menu links to jump between sections.  All of the code is under the <em>config</em> directory and free to use and contribute to.  Be sure to subscribe to the <a href="https://eepurl.com/dmXFYz">Blog Mailing list</a> and YouTube Channel. (https://YouTube.com/vCloudInfo)</p> -->
+ 
+ 
+ 
+<!-- <div align="center"><a name="menu"></a>
+  <h4>
+    <a href="https://www.vCloudInfo.com/tag/iot">
+      Blog
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig#devices">
+      Devices
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
+      Todo List
+    </a>
+    <span> | </span>
+    <a href="https://twitter.com/BearStoneHA">
+      Smart Home Stats
+    </a>
+    <span> | </span>
+    <a href="https://www.vcloudinfo.com/click-here">
+      Follow Me
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/tree/master/config">
+      Code
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig#diagram">
+      Diagram
+    </a>
+    <span> | </span>
+    <a href="https://youtube.com/vCloudInfo">
+      Youtube
+    </a>
+    <span> | </span>
+    <a href="https://amzn.to/2HXSx2M">
+      Merch
+    </a>
+  </h4>
+</div> -->
+
+
+
+
+
 # [LeetCode](https://leetcode.com/problemset/algorithms/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/Prince-1501/Leetcode.svg?branch=master)](https://travis-ci.org/Prince-1501/Leetcode) ![Language](https://img.shields.io/badge/language-c++-blue.svg)
 
 _If you like this project, please leave me a star._ &#9733;
