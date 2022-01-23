@@ -273,6 +273,12 @@ dsa-course@upi
 |2| [Implement Queue using array ](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | | | |:green_square: Easy| Queue, Array|
 |3| [Implement Queue using Linked List](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | | | |:green_square: Easy| Queue, Linked List|
 |4| [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1/) | | | |:green_square: Easy| Queue, Stack|
+|5| [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1) | | | |:green_square: Easy| Queue, Stack|
+|6| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | | | |:green_square: Easy| Stack, Queue|
+|7| [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1) | | | |:green_square: Easy| Stack, Queue|
+|8| [Generate Binary Numbers](https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1) | | | |:green_square: Easy| Queue |
+|9| [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | | | |:green_square: Easy| Queue, Stack|
+|10| [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour-1587115620/1) | | | |:orange_square: Medium| Queue, Sliding window|
 
 
 
