@@ -193,7 +193,10 @@ dsa-course@upi
 |12| [Delete middle element of a stack ](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) | | | |:green_square: Easy| Stack, STL|
 |13| [Infix to Postfix](https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | | | |:green_square: Easy| Stack |
 |14| [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | | | |:orange_square: Medium| Stack, Evaluation of Postfix Expression|
-
+|15| [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | | | |:orange_square: Medium| Stack, Stock span problem |
+|16| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | | | |:orange_square: Medium| Stack, Array |
+|17| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | | | |:red_square: Hard| Stack, Array |
+|18| [The Celebrity Problem ](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) | | | |:orange_square: Medium| Stack, Array |
 
 
 ## Queue
