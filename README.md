@@ -375,11 +375,17 @@ dsa-course@upi
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| Graph Introduction | | | [Solution](https://youtu.be/Y_0-AmbC0Ig) | :green_square: Easy | Graph Theory |
-|2| BFS Of Graph | | | Solution | :green_square: Easy | Graph Theory |
-|3| DFS Of Graph | | | Solution | :green_square: Easy | Graph Theory |
-|4| [Find the Number of Islands](https://leetcode.com/problems/number-of-islands/) | | | Solution | :orange_square: Medium | DFS |
-|4| [Find the Number of Islands](https://leetcode.com/problems/number-of-islands/) | | | Solution | :orange_square: Medium | DFS |
-|_| [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1/) | | | Solution | :orange_square: Medium | DFS |
+|2| Adjacency Matrix in graph | | | [Solution](https://youtu.be/9MdpJuYliQM) | :green_square: Easy | Graph Basic |
+|3| Adjacency List in graph | | | [Solution](https://youtu.be/Ysh31pZqIQs) | :green_square: Easy | Graph |
+|4| How to code graph | | | [Solution](https://youtu.be/MjOwemGFoR8) |   :green_square: Easy | Graph |
+|5| BFS Of Graph | | | [Solution](https://youtu.be/pQTbrRhuWXI) | :green_square: Easy | Graph Theory |
+|6| [Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Find%20if%20Path%20Exists%20in%20Graph.cpp) | | [Solution](https://youtu.be/QC4bDHEnmLM) | :green_square: Easy | Graph BFS |
+|7| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Find%20the%20Town%20Judge.cpp) | | [Solution](https://youtu.be/V_MPL5O-hDw) | :green_square: Easy | Graph BFS |
+|8| DFS Of Graph | | | [Solution](https://youtu.be/7jDCxMQW1GA) | :green_square: Easy | Graph Theory |
+|9| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Number%20of%20Islands.cpp) | | [Solution](https://youtu.be/UbzHYtUwKOY) | :orange_square: Medium | Graph DFS |
+|10| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Flood%20Fill.cpp) | | [Solution](https://youtu.be/7aikf56h9Gs) | :green_square: Easy | Graph Theory |
+|5| [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1/) | | | Solution | :orange_square: Medium | DFS |
+
 
 
 
