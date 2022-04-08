@@ -384,7 +384,12 @@ dsa-course@upi
 |8| DFS Of Graph | | | [Solution](https://youtu.be/7jDCxMQW1GA) | :green_square: Easy | Graph Theory |
 |9| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Number%20of%20Islands.cpp) | | [Solution](https://youtu.be/UbzHYtUwKOY) | :orange_square: Medium | Graph DFS |
 |10| [Flood Fill](https://leetcode.com/problems/flood-fill/) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Flood%20Fill.cpp) | | [Solution](https://youtu.be/7aikf56h9Gs) | :green_square: Easy | Graph Theory |
-|5| [Topological sort](https://practice.geeksforgeeks.org/problems/topological-sort/1/) | | | Solution | :orange_square: Medium | DFS |
+|11| Detect cycle in undirected graph | | | [Solution](https://youtu.be/KPLn9DjwpW4) | :green_square: Easy | Graph |
+|12| [Topological sort (Kahn's BFS)](https://practice.geeksforgeeks.org/problems/topological-sort/1) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Topological%20sort%20.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Topological%20sort.pdf) | [Solution](https://youtu.be/X7VdEG51__E) | :green_square: Easy | Graph |
+|13| [Topological sort using DFS](https://practice.geeksforgeeks.org/problems/topological-sort/1) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Topological%20sort%20using%20dfs.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Topological%20sort%20using%20dfs.pdf) | [Solution](https://youtu.be/tv8yJLKOZ0g) | :orange_square: Medium | Graph DFS |
+|14| [Detect Cycle in a Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Detect%20cycle%20in%20a%20directed%20graph.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Detect%20cycle%20in%20a%20directed%20graph.pdf) | [Solution](https://youtu.be/TL9oORCqHe8) | :orange_square: Medium | Graph GFG |
+
+
 
 
 
