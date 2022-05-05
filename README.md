@@ -3,7 +3,7 @@
   <br>
   Complete DSA Preparation Course
 </h1>
-<h4 align="center">Be sure to :star: my configuration repo so you can keep up to date on any daily progress!</h4>
+<h4 align="center">Make sure to :star: my DSA repo so you can keep up to date on any daily progress!</h4>
 <!-- <div align="center">
   <h4>
     <a href="https://github.com/CCOSTAN/Home-AssistantConfig/stargazers"><img src="https://img.shields.io/github/stars/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
