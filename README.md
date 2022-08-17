@@ -117,7 +117,11 @@ dsa-course@upi
 :green_square:
 :orange_square:
 :red_square:
+## Time Complexity
 
+|  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
+|-----|----------------|----------|---------------|---------|-------------|--------
+|1|Time Complexity||[Theory](https://www.interviewbit.com/courses/programming/time-complexity/)||:orange_square: Medium|Time Complexity|
 
 ## Mathematics
 
@@ -136,6 +140,7 @@ dsa-course@upi
 |11| [Modular Multiplicative Inverse](https://practice.geeksforgeeks.org/problems/modular-multiplicative-inverse-1587115620/1)||||:green_square: Easy| Modulo |
 |12| [Trailing zeroes in factorial](https://practice.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1)||||:orange_square: Medium| Logic |
 |13| [Prime Factors ](https://practice.geeksforgeeks.org/problems/prime-factors5052/1)||||:orange_square: Medium| Prime |
+|14| Discrete Mathematics||[Theory](https://www.interviewbit.com/courses/programming/math/)||:orange_square: Medium| Math |
 
 ## Bits Manipulation
 
@@ -153,7 +158,7 @@ dsa-course@upi
 |10| [Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1)| | | |:green_square: Easy| AND |
 |11| [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1)| | | |:green_square: Easy| OR |
 |12| [Maximum AND Value ](https://practice.geeksforgeeks.org/problems/maximum-and-value-1587115620/1)| | | |:orange_square: Medium| AND |
-
+|13| [Bits Manupulation](https://www.interviewbit.com/courses/programming/bit-manipulation/)| | | |:orange_square: Medium| Bits |
 
 
 ## Recursion
@@ -173,7 +178,8 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| | | | | |  |
+|1| [Array Interview Questions](https://www.interviewbit.com/array-interview-questions/) | | | |:orange_square: Medium| Arrays|
+|2| [Array](https://www.interviewbit.com/courses/programming/arrays/) | | | |:orange_square: Medium| Arrays|
 
 
 
@@ -190,7 +196,7 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| | | | | |  |
+|1| [Sorting Algorithms](https://www.interviewbit.com/courses/programming/arrays/sorting-algorithms/) | | | |:orange_square: Medium|Sorting|
 
 
 
@@ -236,6 +242,7 @@ dsa-course@upi
 |18|[Custom Sort String ](https://leetcode.com/problems/custom-sort-string/)|  [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Custom%20Sort%20String.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Custom%20Sort%20String.pdf) | [Solution](https://youtu.be/z4KYZGv7L-I) |:orange_square: Medium | map |
 |19|[Sort Array by Increasing Frequency ](https://leetcode.com/problems/sort-array-by-increasing-frequency/)|  [c++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Sort%20Array%20by%20Increasing%20Frequency.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Hashing/Sort%20Array%20by%20Increasing%20Frequency.pdf) | [Solution](https://youtu.be/PjKjbpI2Z3s) |:green_square: Easy | map, Lambda |
 |20|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|  | | Practice |:orange_square: Medium | map |
+|21|[Hashing Tutorial](https://www.interviewbit.com/courses/programming/hashing/)|  | | Practice |:orange_square: Medium | map |
 
 
 
@@ -262,6 +269,7 @@ dsa-course@upi
 |17| [ Minimum indexed character ](https://practice.geeksforgeeks.org/problems/minimum-indexed-character-1587115620/1) | | |  | :green_square: Easy | string |
 |18| [ Smallest window in a string containing all the characters of another string ](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) | | |  | :orange_square: Medium | string |
 |19| [ Nth number made of prime digits ](https://practice.geeksforgeeks.org/problems/nth-number-made-of-prime-digits4319/1) | | |  | :green_square: Easy | Prime, string |
+|20| [ String Tutorial ](https://www.interviewbit.com/courses/programming/strings/) | | |  | :orange_square: Medium | string |
 
 
 
@@ -271,6 +279,9 @@ dsa-course@upi
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|||[Solution](https://youtu.be/8Sm_8ITMt08)|:green_square: Easy|Linked List|
+|2|[Linked List Interview Questions](https://www.interviewbit.com/linked-list-interview-questions/)||||:orange_square: Medium|Linked List|
+|3|[Linked List Tutorial](https://www.interviewbit.com/courses/programming/linked-lists/)||||:orange_square: Medium|Linked List|
+
 
 
 
@@ -298,7 +309,7 @@ dsa-course@upi
 |16| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | | | |:orange_square: Medium| Stack, Array |
 |17| [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | | | |:red_square: Hard| Stack, Array |
 |18| [The Celebrity Problem ](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) | | | |:orange_square: Medium| Stack, Array |
-
+|19| [Stack Tutorial](https://www.interviewbit.com/courses/programming/stacks-and-queues/) | | | |:orange_square: Medium| Stack, Queues |
 
 ## Queue
 
@@ -350,7 +361,7 @@ dsa-course@upi
 |25| [Mirror Tree ](https://practice.geeksforgeeks.org/problems/mirror-tree/1/) | | |  | :green_square: Easy | Tree |
 |26| [Check if subtree ](https://practice.geeksforgeeks.org/problems/check-if-subtree/1/) | | |  | :orange_square: Medium | Tree |
 |27| [Make Binary Tree From Linked List ](https://practice.geeksforgeeks.org/problems/make-binary-tree/1) | | |  | :orange_square: Medium | Tree |
-
+|28| [Tree Structure Tutorial](https://www.interviewbit.com/courses/programming/tree-data-structure/) | | |  | :orange_square: Medium | Tree |
 
 
 ## Binary Search Tree
@@ -359,14 +370,14 @@ dsa-course@upi
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| [Inorder traversal of a BST  ](https://practice.geeksforgeeks.org/problems/inorder-traversal-of-a-bst/1/) | | | | :green_square: Easy | BST, Tree |
 |2| [Search in a Binary Search Tree ](https://leetcode.com/problems/search-in-a-binary-search-tree/) | | | | :green_square: Easy | BST, Tree |
-
+|3| [Binary Search Tree Tutorial](https://www.interviewbit.com/courses/programming/tree-data-structure/binary-tree/) | | | | :orange_square: Medium | BST, Tree |
 
 
 ## Heap
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| [Heaps and map  Tutorial](https://www.interviewbit.com/courses/programming/heaps-and-maps/) | | | | :orange_square: Medium | Heap |
 
 
 
@@ -388,7 +399,7 @@ dsa-course@upi
 |12| [Topological sort (Kahn's BFS)](https://practice.geeksforgeeks.org/problems/topological-sort/1) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Topological%20sort%20.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Topological%20sort.pdf) | [Solution](https://youtu.be/X7VdEG51__E) | :green_square: Easy | Graph |
 |13| [Topological sort using DFS](https://practice.geeksforgeeks.org/problems/topological-sort/1) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Topological%20sort%20using%20dfs.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Topological%20sort%20using%20dfs.pdf) | [Solution](https://youtu.be/tv8yJLKOZ0g) | :orange_square: Medium | Graph DFS |
 |14| [Detect Cycle in a Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | [C++](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Detect%20cycle%20in%20a%20directed%20graph.cpp) | [Pdf](https://github.com/Prince-1501/Hello_world-Competiitve-Programming/blob/master/Leetcode/Graph/Detect%20cycle%20in%20a%20directed%20graph.pdf) | [Solution](https://youtu.be/TL9oORCqHe8) | :orange_square: Medium | Graph GFG |
-
+|15|[Graph Tutorial](https://www.interviewbit.com/courses/programming/graph-data-structure-algorithms/) | |  | :orange_square: Medium | Graph Theory |
 
 
 
@@ -398,7 +409,7 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| [Greedy Algorithm](https://www.interviewbit.com/courses/programming/greedy-algorithm/) | | |  | :orange_square: Medium | Greedy |
 
 
 
@@ -406,15 +417,14 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| [Backtracking Tutorial](https://www.interviewbit.com/courses/programming/backtracking/) | | |  | :orange_square: Medium | Backtracking |
 
 
 ## Dynamic Programming
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| [Fibonacci Numbers - Top Down DP](https://practice.geeksforgeeks.org/problems/fibonacci-numbers-top-down-dp/1) | | |  | :green_square: Easy | Recursion |
-
+|1| [Dynamic Programming Tutorial](https://www.interviewbit.com/courses/programming/dynamic-programming/) | | |  | :orange_square: Medium | Dynamic Programming |
 
 ## Trie
 
