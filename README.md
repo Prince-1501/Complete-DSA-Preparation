@@ -270,7 +270,11 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)|||[Solution](https://youtu.be/8Sm_8ITMt08)|:green_square: Easy|Linked List|
+|1| Introduction to Linked list Playlist c++ |||[Theory](https://youtu.be/rrPsVNwvfxg)|:green_square: Easy|Linked List|
+|2| Data structures Competitive Programming |||[Theory](https://youtu.be/zwjLygQPBb0)|:green_square: Easy|DSA|
+|3| Arrays in Data Structures |||[Theory](https://youtu.be/vPfD_50rwog)|:green_square: Easy|Arrays|
+|4| Pointers in C++ with code Practice |||[Theory](https://youtu.be/-x0QnooY6O8)|:green_square: Easy|Pointers|
+|5| Struct in c++ |||[Theory](https://youtu.be/PLivrxyXTMc)|:green_square: Easy|Struct|
 
 
 
