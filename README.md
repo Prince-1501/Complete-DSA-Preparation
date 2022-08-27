@@ -274,7 +274,7 @@ dsa-course@upi
 |2| Data structures Competitive Programming |||[Theory](https://youtu.be/zwjLygQPBb0)|:green_square: Easy|DSA|
 |3| Arrays in Data Structures |||[Theory](https://youtu.be/vPfD_50rwog)|:green_square: Easy|Arrays|
 |4| Pointers in C++ with code Practice |||[Theory](https://youtu.be/-x0QnooY6O8)|:green_square: Easy|Pointers|
-|5| Struct in c++ |||[Theory](https://youtu.be/PLivrxyXTMc|:green_square: Easy|Structure|
+|5| Struct in c++ |||[Theory](https://youtu.be/PLivrxyXTMc)|:green_square: Easy|Struct|
 
 
 
