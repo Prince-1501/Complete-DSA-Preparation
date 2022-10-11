@@ -439,9 +439,9 @@ The Whole content management system is released under the under terms of the [MI
 
 ## Connect with us  ~Prince
 
-<a href="https://telegram.me/helloworldbyprince"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/telegram.png" alt="telegram" width="60"/></a>
-<a href="https://www.linkedin.com/in/iamprince/"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/linkedin.png" alt="Linkedin" width="60"/></a>
-<a href="https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q/"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/youtube.png" alt="youtube" width="85"/></a>
+<a href="https://telegram.me/helloworldbyprince" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/telegram.png" alt="telegram" width="60"/></a>
+<a href="https://www.linkedin.com/in/iamprince/" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/linkedin.png" alt="Linkedin" width="60"/></a>
+<a href="https://www.youtube.com/c/HelloWorldbyprince/" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/youtube.png" alt="youtube" width="85"/></a>
 
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
