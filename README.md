@@ -310,7 +310,7 @@ dsa-course@upi
 |-----|----------------|----------|---------------|---------|-------------|--------
 |1| What is Queue | |[GFG Link](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)|[Solution](https://youtu.be/f-7SBV09Ots)|:green_square: Easy| Queue, STL|
 |2| [Implement Queue using array ](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) | | | |:green_square: Easy| Queue, Array|
-|3| [Implement Queue using Linked List](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | | | |:green_square: Easy| Queue, Linked List|
+|3| [Implement Queue using Linked List](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | | [Scaler Topics Link](https://www.scaler.com/topics/c/implementation-of-queue-using-linked-list/) | |:green_square: Easy| Queue, Linked List|
 |4| [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1/) | | | |:green_square: Easy| Queue, Stack|
 |5| [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1) | | | |:green_square: Easy| Queue, Stack|
 |6| [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | | | |:green_square: Easy| Stack, Queue|
