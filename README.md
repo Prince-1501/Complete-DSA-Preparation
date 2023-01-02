@@ -370,7 +370,11 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| Kth Largest Element in an Array | | | [Solution](https://www.youtube.com/watch?v=g5mmW0GOTx8) | :green_square: Easy | Heap Basic |
+|2| Top K Frequent Elements | | | [Solution](https://www.youtube.com/watch?v=3YFFqwzxosU) | :green_square: Easy | Heap Basic |
+|3| Find K Closest Elements | | | [Solution](https://www.youtube.com/watch?v=Of4bdCDwcdY) | :orange_square: Medium | Heap Medium |
+|4| Merge k Sorted Arrays | | | [Solution](https://www.youtube.com/watch?v=l8CuET0jlDU) | :orange_square: Medium | Heap Medium |
+|5| Find median in a stream | | | [Solution](https://www.youtube.com/watch?v=cjQNm2eS6Lw) | :red_square: Hard | Heap Hard |
 
 
 
