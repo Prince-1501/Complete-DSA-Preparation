@@ -370,11 +370,14 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| Kth Largest Element in an Array | | | [Solution](https://www.youtube.com/watch?v=g5mmW0GOTx8) | :green_square: Easy | Heap Basic |
-|2| Top K Frequent Elements | | | [Solution](https://www.youtube.com/watch?v=3YFFqwzxosU) | :green_square: Easy | Heap Basic |
-|3| Find K Closest Elements | | | [Solution](https://www.youtube.com/watch?v=Of4bdCDwcdY) | :orange_square: Medium | Heap Medium |
-|4| Merge k Sorted Arrays | | | [Solution](https://www.youtube.com/watch?v=l8CuET0jlDU) | :orange_square: Medium | Heap Medium |
-|5| Find median in a stream | | | [Solution](https://www.youtube.com/watch?v=cjQNm2eS6Lw) | :red_square: Hard | Heap Hard |
+|1| Heap sort | | | [Solution](https://youtu.be/79KoeErdQtk) | :green_square: Easy | Heap Basic |
+|2| Kth Largest Element in an Array | | | [Solution](https://youtu.be/g5mmW0GOTx8) | :green_square: Easy | Heap Basic |
+|3| Kth Largest Element in a Stream | | | [Solution](https://youtu.be/8HR8Ak5zuus) | :green_square: Easy | Heap Basic |
+|4| Top K Frequent Elements | | | [Solution](https://youtu.be/3YFFqwzxosU) | :green_square: Easy | Heap Basic |
+|5| Minimum Cost of ropes | | | [Solution](https://youtu.be/mRtq1ucnjJg) | :green_square: Easy | Heap Basic |
+|6| Find K Closest Elements | | | [Solution](https://youtu.be/Of4bdCDwcdY) | :orange_square: Medium | Heap Medium |
+|7| Merge k Sorted Arrays | | | [Solution](https://youtu.be/l8CuET0jlDU) | :orange_square: Medium | Heap Medium |
+|8| Find median in a stream | | | [Solution](https://youtu.be/cjQNm2eS6Lw) | :red_square: Hard | Heap Hard |
 
 
 
