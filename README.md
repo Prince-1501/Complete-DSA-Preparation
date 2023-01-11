@@ -370,7 +370,14 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
+|1| [Heap sort](https://practice.geeksforgeeks.org/problems/heap-sort/1) | | | [Solution](https://youtu.be/79KoeErdQtk) | :green_square: Easy | Heap Basic |
+|2| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | | | [Solution](https://youtu.be/g5mmW0GOTx8) | :green_square: Easy | Heap Basic |
+|3| [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | | | [Solution](https://youtu.be/8HR8Ak5zuus) | :green_square: Easy | Heap Basic |
+|4| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | | | [Solution](https://youtu.be/3YFFqwzxosU) | :green_square: Easy | Heap Basic |
+|5| [Minimum Cost of ropes](https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | | | [Solution](https://youtu.be/mRtq1ucnjJg) | :green_square: Easy | Heap Basic |
+|6| [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | | | [Solution](https://youtu.be/Of4bdCDwcdY) | :orange_square: Medium | Heap Medium |
+|7| [Merge k Sorted Arrays](https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | | | [Solution](https://youtu.be/l8CuET0jlDU) | :orange_square: Medium | Heap Medium |
+|8| [Find median in a stream](https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1) | | | [Solution](https://youtu.be/cjQNm2eS6Lw) | :red_square: Hard | Heap Hard |
 
 
 
