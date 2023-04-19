@@ -144,7 +144,7 @@ dsa-course@upi
 |1| [Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1)| | | |:green_square: Easy| Bits, Modulo |
 |2| [Rightmost different bit ](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1)| | | |:green_square: Easy| XOR, Modulo |
 |3| [Check whether K-th bit is set or not ](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1)| | | |:green_square: Easy| XOR, Modulo |
-|4| [Count total set bits ](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)| | | |:orange_square: Medium| RIght shift |
+|4| [Count total set bits ](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1)| | | |:orange_square: Medium| Right shift |
 |5| [Bit Difference ](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1)| | | |:green_square: Easy| Bits |
 |6| [Number is sparse or not  ](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1)| | | |:green_square: Easy| Bits |
 |7| [Longest Consecutive 1's  ](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)| | | |:green_square: Easy| Bits |
@@ -173,9 +173,9 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| | | | | |  |
-
-
+|1| [Array Partition](https://leetcode.com/problems/array-partition/1)| | | |:green_square: Easy | Array Sorting |
+|2| [Monotonic Array](https://leetcode.com/problems/monotonic-array/1)| | | |:green_square: Easy | Basic Math |
+|3| [Array Nesting](https://leetcode.com/problems/array-nesting/1)| | | |:orange_square: Medium | Array Traverse |
 
 ## Searching
 
